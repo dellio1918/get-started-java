@@ -1,1 +1,1 @@
-THis is our GPS PROJECT
+THis is our GPS project
